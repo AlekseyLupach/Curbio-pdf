@@ -1,0 +1,14 @@
+.header {
+  margin-bottom: 20px;
+}
+
+.header-logo {
+  width: 200px;
+}
+
+.header-title {
+  font-weight: 600;
+  height: 40px;
+  font-size: 48px;
+  color: var(--orange);
+}

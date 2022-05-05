@@ -4,10 +4,14 @@
 
 .report-adress_type {
   flex: 0.4;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
 }
 
 .report-adress_value {
   flex: 1;
   font-weight: 600;
+}
+
+.report-adress_cost {
+  color: green;
 }
